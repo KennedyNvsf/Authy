@@ -1,5 +1,5 @@
 # Advanced Authentication Workflow | Authy: Next.js 14, NextAuthV5, SanityCMS Custom Adapter, Typescript
-![IMAGE](https://github.com/KennedyNvsf/sanity_boardify/assets/45067556/561778e2-8fe8-4940-a4c6-7dd971249405)
+![COVER](https://github.com/KennedyNvsf/Authy/assets/45067556/0429299c-c8e9-4d67-966b-2ad4902e165e)
 
 
 This is a repository for Authy: Next.js 14, NextAuthV5, SanityCMS Custom Adapter, Typescript
